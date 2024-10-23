@@ -10,3 +10,4 @@ print(type(d))
 
 b=float(b)
 print(b)
+a=string()
